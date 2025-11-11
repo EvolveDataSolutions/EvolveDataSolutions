@@ -1,4 +1,4 @@
-# Hi, I'm [Emily Lilford] 👋
+# Hi, I'm Emily Lilford 👋
 
 ### Business Intelligence Specialist for Small Businesses & Recruitment Agencies
 
@@ -30,13 +30,13 @@ Below are some of the projects I've worked on. Each repository contains the proj
 | :--- | :--- | :--- |
 | **Recruitment Activity Dashboard** | Funnel Optimization & Recruiter Performance | Interactive Excel Dashboard |
 | **Small Business Revenue Tracker** | Financial Health & Target Monitoring | Automated Excel Report |
-| **[Candidate Pipeline Health Dashboard]** | [Drop-off Analysis & Time-in-Stage Metrics] | [Interactive Excel Dashboard] |
+| **Candidate Pipeline Health Dashboard** | Drop-off Analysis & Time-in-Stage Metrics | Interactive Excel Dashboard |
 
 ---
 
 ## 🤝 Let's Connect
 
-*   **LinkedIn:** [https://www.linkedin.com/in/emholden/] - *For professional networking and consulting inquiries.*
-*   **Email:** [emilylilford@gmail.com] - *For project discussions.*
+*   **LinkedIn:** https://www.linkedin.com/in/emholden/ - *For professional networking and consulting inquiries.*
+*   **Email:** emilylilford@gmail.com - *For project discussions.*
 
 *Note: This portfolio is a collection of independent projects. For consulting inquiries, please refer to my LinkedIn profile for current availability.*
